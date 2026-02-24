@@ -1,4 +1,16 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="Mentari TV 6" tvg-logo="https://thumbor.prod.vidiocdn.com/NlKuedj4cpv-SrNGEi26Ce4AFd4=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8237/18585d.png" group-title="VISION+", ANTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn08jtedge.indihometv.com/dassdvr/130/antv/manifest_wuseetv.mpd
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Rombongan Besan TV 1" tvg-logo="https://i.imgur.com/5AMxIL2.png" group-title="FTA Indonesia",Rombongan Besan TV 1
 http://103.146.197.250:25461/daeng/tmgrh/1
 #EXTINF:-1 tvg-id="" tvg-name="Rombongan Besan TV 2" tvg-logo="https://i.imgur.com/5AMxIL2.png" group-title="FTA Indonesia",Rombongan Besan TV 2
